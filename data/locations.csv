@@ -1,1 +1,4 @@
 id,name_ar,name_en,name_fr,type,latitude,longitude,city_id
+id,name_ar,name_en,name_fr,type,latitude,longitude,city_id
+wlS,الرباط,Rabat,Rabat,BUS_STATION,33.916957,-6.92779,cBT
+dIB,طنجة,Tangier,Tanger,BUS_STATION,35.755148,-5.791134,2Lh
